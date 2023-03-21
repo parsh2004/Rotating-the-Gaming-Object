@@ -73,7 +73,7 @@ public class caps : MonoBehaviour
 }
 ```
 ## Output:
-![image](./inter.png)
+![img1](https://user-images.githubusercontent.com/95388047/226552608-60456d53-f815-470d-85c1-2d40433c1237.png)
 
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed successfully.
